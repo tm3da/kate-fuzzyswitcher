@@ -1,0 +1,8 @@
+<!DOCTYPE kpartgui>
+<gui name="katefuzzydocumentswitcher" library="libkatefuzzydocumentswitcherplugin" version="2">
+<MenuBar>
+  <Menu name="go"><text>&amp;Go</text>
+    <Action name="documents_fuzzyswitch"/>
+  </Menu>
+</MenuBar>
+</gui>
